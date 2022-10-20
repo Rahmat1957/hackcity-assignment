@@ -1,0 +1,13 @@
+Assignment 1
+Write a pseudocode that converts all characters in
+a given string to capital letter.
+
+1. Input your string.
+2. let i = string 
+3. The difference between the ASCII code of lower case and
+    upper case letters is 32.
+4. If i = character + 32 then it is a small letter.
+5.  If i is not equal to character + 32, terminate
+    the operation.
+6. Let i= character - 32
+7 print string.
