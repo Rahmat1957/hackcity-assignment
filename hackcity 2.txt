@@ -1,0 +1,10 @@
+1. Start.
+2. Input string.
+3. Calculate the length of the string.
+4. Initialize rev as an empty string.
+5. Initialize i = length - 1.
+6a. If i>=0 proceed the operation.
+ b. Else print rev.
+7. rev = rev + character at position i of the string.
+8. Decrement i by 1.
+9. Print rev.
